@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">STORAGE</string>
+    <string name="tv_autmessage">Enter password:</string>
+    <string name="tv_reg_message1">Enter last password:</string>
+    <string name="tv_reg_message2">Enter new password:</string>
+    <string name="tv_reg_message3">Repeat new password:</string>
+    <string name="b_autconfirm">OPEN</string>
+    <string name="b_addnote">ADD NOTE</string>
+    <string name="tv_name">Name</string>
+    <string name="tv_login">Login</string>
+    <string name="tv_pass">Pass</string>
+    <string name="tv_url">URL</string>
+    <string name="tv_description">Description</string>
+    <string name="b_save">SAVE</string>
+    <string name="b_reg">Create</string>
+
+
+    <string-array name="menu_items_action">
+        <item>ACTIONS</item>
+        <item>copy username</item>
+        <item>copy pass</item>
+        <item>copy URL</item>
+        <item>edit</item>
+        <item>delete</item>
+    </string-array>
+</resources>
